@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(214, 206, 206);
+}
+form{
+    margin-left: 350px;
+    align-items: center;
+    padding: 100px;
+}
+form > input {
+    width: 300px;
+    text-align: center;
+}
+select{
+    align-items: center;
+}
+button{
+    margin-left: 170px;
+    padding: 2px;
+}
+h2{
+    margin-left: 350px;
+    color: rgb(82, 56, 56);
+}
+h2.second-h2{
+    margin-left: 470px;
+}
+
+i{
+    color: green;
+}
